@@ -7,6 +7,9 @@ First, run the development server:
 <!-- You might have to do npm i to get all the dependencies--Hamdan -->
 
 ```bash
+
+npm install
+
 npm run dev
 # or
 yarn dev
